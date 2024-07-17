@@ -47,7 +47,7 @@ The WhatsApp Chat Analyzer is an excellent tool for anyone looking to dive deepe
 
 Feel free to explore the repository, contribute to the project, or use it as a base for your own chat analysis endeavors!
 
-
+# ScreenRecord of the webpage
 
 
 
