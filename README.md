@@ -50,6 +50,10 @@ Feel free to explore the repository, contribute to the project, or use it as a b
 # ScreenRecord of the webpage
 
 
+https://github.com/user-attachments/assets/c8f48881-8029-4dd3-b393-f997f536a6f4
+
+
+
 
 
 
