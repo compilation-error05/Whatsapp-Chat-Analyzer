@@ -54,10 +54,3 @@ https://github.com/user-attachments/assets/c8f48881-8029-4dd3-b393-f997f536a6f4
 
 
 
-
-
-
-https://github.com/user-attachments/assets/4ca43ea4-0d6c-4e8e-afd9-519610f55b97
-
-
-
